@@ -1,0 +1,10 @@
+fastapi
+pydantic
+python-dotenv
+uvicorn
+sentence-transformers
+bitsandbytes
+langchain
+faiss_cpu
+torch
+accelerate
